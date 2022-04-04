@@ -173,7 +173,7 @@ public class Customer implements Serializable {
     public void setDiscountCode(DiscountCode discountCode) {
         this.discountCode = discountCode;
     }
-
+    
     public MicroMarket getZip() {
         return zip;
     }
